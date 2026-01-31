@@ -1,0 +1,1 @@
+This template deploys a resource group including all of the infrastructure for lab one, namely a network security group allowing ssh, a virtual network, and a virtual machine running Ubuntu 22.04 lts, with a 16gb ssd added to it. It was exported on January 30th, 2026.
